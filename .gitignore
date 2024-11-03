@@ -1,0 +1,4 @@
+# Ignorar arquivos temporários
+*.log
+tmp/
+db/*.sqlite3
